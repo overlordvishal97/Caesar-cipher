@@ -21,26 +21,3 @@ To run this program, you need Python installed on your computer.
 
 ```bash
 python caesar_cipher.py
-
-
-### Usage
-
-When prompted, enter encode to encrypt or decode to decrypt a message.
-Enter the message you want to encode or decode.
-Enter the shift number (the number of positions each letter in the message will be shifted).
-The program will display the encoded or decoded message.
-You can choose to run the program again or exit.
-
-### Example
-
-Type 'encode' to encrypt, type 'decode' to decrypt:
-encode
-Type your message:
-hello
-Type the shift number:
-5
-Here's the encoded result: mjqqt
-
-Type 'yes' if you want to go again. Otherwise type 'no'.
-no
-Goodbye
