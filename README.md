@@ -22,6 +22,7 @@ To run this program, you need Python installed on your computer.
 ```bash
 python caesar_cipher.py
 
+
 ### Usage
 
 When prompted, enter encode to encrypt or decode to decrypt a message.
